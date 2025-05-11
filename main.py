@@ -44,7 +44,7 @@ def main():
     is_running = True
 
     while is_running:
-
+        print(hint)
 
 if __name__ == "__main__":
     main()
