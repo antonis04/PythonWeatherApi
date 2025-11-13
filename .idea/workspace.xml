@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc8e5196-5dcd-44ba-973f-f389ab5c0eb6" name="Changes" comment="work in progress">
+    <list default="true" id="cc8e5196-5dcd-44ba-973f-f389ab5c0eb6" name="Changes" comment="weather API 1st commit, work in progress">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -117,7 +117,9 @@
       <workItem from="1747241235696" duration="611000" />
       <workItem from="1762248134951" duration="155000" />
       <workItem from="1762248304526" duration="2128000" />
-      <workItem from="1762273517434" duration="2949000" />
+      <workItem from="1762273517434" duration="3724000" />
+      <workItem from="1762948049931" duration="2674000" />
+      <workItem from="1763066999732" duration="6324000" />
     </task>
     <task id="LOCAL-00001" summary="work in progress">
       <option name="closed" value="true" />
@@ -143,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762250397147</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="weather API 1st commit, work in progress">
+      <option name="closed" value="true" />
+      <created>1762288778127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762288778127</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,10 +172,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="work in progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="work in progress" />
+    <MESSAGE value="weather API 1st commit, work in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="weather API 1st commit, work in progress" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonWeatherApi$main.coverage" NAME="main Coverage Results" MODIFIED="1762275479318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWeatherApi$main.coverage" NAME="main Coverage Results" MODIFIED="1763076130985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1746961606252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1747151148935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
